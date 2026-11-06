@@ -87,11 +87,11 @@ python crew_labour.py
 ## Итоговый отчёт
 (100–150 слов в формате markdown)
 ```
-(https://github.com/Anatolium/AI-Assistant-CrewAI/blob/main/images/pict-1.jpg)
+![Итог работы агента "Аналитик рынка труда"](https://github.com/Anatolium/AI-Assistant-CrewAI/blob/main/images/pict-1.jpg)
 
-(https://github.com/Anatolium/AI-Assistant-CrewAI/blob/main/images/pict-2.jpg)
+![Итог работы агента "Автор отчётов"](https://github.com/Anatolium/AI-Assistant-CrewAI/blob/main/images/pict-2.jpg)
 
-(https://github.com/Anatolium/AI-Assistant-CrewAI/blob/main/images/pict-3.jpg)
+![Итог работы проекта](https://github.com/Anatolium/AI-Assistant-CrewAI/blob/main/images/pict-3.jpg)
 
 ---
 
