@@ -89,9 +89,11 @@ python crew_labour.py
 ```
 
 **Итог работы агента "Аналитик рынка труда"**
+
 ![Итог работы агента "Аналитик рынка труда"](https://github.com/Anatolium/AI-Assistant-CrewAI/blob/main/images/pict-1.jpg)
 
 **Итог работы агента "Автор отчётов"**
+
 ![Итог работы агента "Автор отчётов"](https://github.com/Anatolium/AI-Assistant-CrewAI/blob/main/images/pict-2.jpg)
 
 **Итог работы проекта**
